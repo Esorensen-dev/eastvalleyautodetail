@@ -1,0 +1,84 @@
+<div class="container">
+    <div class="testi-main-slider">
+        {%- for block in section.blocks -%}
+            <div class="testi-slides">
+                <div class="testi-inner">
+                    <div class="img-wrapper">
+                        <img src="{{ block.settings.proimg | img_url: 'master' }}" alt="img">
+                    </div>
+                    <div class="ratings d-flex align-items-center">
+                        <img src="{{ block.settings.img | img_url: 'master' }}" alt="star">
+                        <span><b>{{ block.settings.review }}</b> / 5.0</span>
+                    </div>
+                    <h3>{{ block.settings.title }}</h3>
+                    <p>{{ block.settings.desc }}</p>
+                    <h6>{{ block.settings.subtitle }}</h6>
+                    <span class="user-name"><a href="#">{{ block.settings.author }},</a> {{ block.settings.designation }} </span>
+                </div>
+            </div>
+        {% endfor %}    
+    </div>
+</div>
+{% schema %}
+{
+  "name": "t:settings_schema.testimonial.name",
+  "tag": "section",
+  "class": "testimonials-section padding-bottom",
+  "max_blocks": 5,
+  "settings": [
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "name": "t:settings_schema.testimonial.name",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "proimg",
+          "label": "t:settings_schema.testimonial.settings.img"
+        },
+        {
+          "type": "image_picker",
+          "id": "img",
+          "label": "t:settings_schema.testimonial.settings.str_img"
+        },
+        {
+          "type": "text",
+          "id": "review",
+          "label": "t:settings_schema.testimonial.settings.review"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "t:settings_schema.common.settings.title"
+        },
+        {
+          "type": "textarea",
+          "id": "desc",
+          "label": "t:settings_schema.testimonial.settings.desc"
+        },
+        {
+          "type": "text",
+          "id": "subtitle",
+          "label": "t:settings_schema.common.settings.subtitle"
+        },
+        {
+          "type": "text",
+          "id": "author",
+          "label": "t:settings_schema.testimonial.settings.aut_name"
+        },
+        {
+          "type": "text",
+          "id": "designation",
+          "label": "t:settings_schema.testimonial.settings.aut_design"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:settings_schema.testimonial.name"
+    }
+  ]
+}
+{% endschema %}

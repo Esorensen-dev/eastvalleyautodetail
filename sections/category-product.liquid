@@ -1,0 +1,88 @@
+<div class="container">
+    <div class="section-title d-flex justify-content-between align-items-center">
+        <h2>{{ section.settings.title }}</h2> 
+    </div>
+</div>
+<div class="offset-container offset-left">
+    <div class="row no-gutters">
+        <div class="col-lg-8 col-12">
+           {%- assign collection = collections[section.settings.collection]  -%}
+            <div class="card-tab-main-slider">
+                {% for product in collection.products %}
+                    <div class="grid__item card product-card">
+                        {% render 'catcard-product', card_product: product, pro_img_widthheight: section.settings.pro_img_widthheight, show_secondary_image: section.settings.show_secondary_image,
+                        show_vendor: section.settings.show_vendor,show_wish: section.settings.show_wish,show_review: section.settings.show_review %}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="col-lg-4 col-12 img-col">
+            <div class="img-wrapper">
+                <img src="{{ section.settings.img | img_url: 'master' }}" alt="card-tab">
+            </div>
+        </div>
+    </div>
+</div>
+{% schema %}
+{
+  "name": "t:settings_schema.common-section.cat_pro",
+  "tag": "section",
+  "class": "card-tab-slider-sec padding-top tabs-wrapper padding-bottom",
+    "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "t:settings_schema.common.settings.title"
+    },
+    {
+      "type": "image_picker",
+      "id": "img",
+      "label": "t:settings_schema.common.settings.img"
+    },
+    {
+      "type": "header",
+      "content": "t:settings_schema.common.settings.pro_set"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_secondary_image",
+      "default": false,
+      "label": "t:settings_schema.common.settings.pro_hvr_img"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_vendor",
+      "default": false,
+      "label": "t:settings_schema.common.settings.sh_ven"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_wish",
+      "default": false,
+      "label": "t:settings_schema.common.settings.sh_wish"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_review",
+      "default": true,
+      "label": "t:settings_schema.common.settings.sh_rev"
+    },
+    {
+      "type": "text",
+      "id": "pro_img_widthheight",
+      "default": "600x600",
+      "label": "t:settings_schema.common.settings.width_height"
+    },
+    {
+      "type": "collection",
+      "id": "collection",
+      "label": "t:settings_schema.common.settings.sec_coll"
+    }
+  ],
+"presets": [
+    {
+      "name": "t:settings_schema.common-section.cat_pro"
+    }
+]
+}
+{% endschema %}

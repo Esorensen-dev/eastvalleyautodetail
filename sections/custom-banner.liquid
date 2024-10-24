@@ -1,0 +1,57 @@
+<div class="container" data-type="custom-banner">
+    <div class="row no-gutters">
+        <div class="col-md-6 left-side">
+            <div class="img-wrapper">
+                <img src="{{ section.settings.img | img_url: 'master' }}" alt="bike">
+            </div>
+        </div>
+        <div class="col-md-6 right-side">
+            <div class="right-content">
+                <div class="section-title">
+                    <h2>{{ section.settings.title }}</h2>
+                </div>
+                <p>{{ section.settings.desc }}</p>
+                <a href="{{ section.settings.btn_url }}" class="btn">{{ section.settings.btn }}</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% schema %}
+{
+  "name": "t:settings_schema.common-section.cus_bnr",
+  "tag": "section",
+  "class": "best-pro-section padding-bottom",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "img",
+      "label": "t:settings_schema.common.settings.img"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "t:settings_schema.common.settings.title"
+    },
+    {
+      "type": "text",
+      "id": "desc",
+      "label": "t:settings_schema.common.settings.desc"
+    },
+    {
+      "type": "url",
+      "id": "btn_url",
+      "label": "t:settings_schema.common.settings.btn_url"
+    },
+    {
+      "type": "text",
+      "id": "btn",
+      "label": "t:settings_schema.common.settings.btn"
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:settings_schema.common-section.cus_bnr"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,37 @@
+<div class="container" data-type="brand-logo">
+    <div class="logo-slider-main">
+        {% for block in section.blocks %}
+            <div class="logo-slides">
+                <img src="{{ block.settings.img | img_url: 'master' }}">
+            </div>
+        {% endfor %}
+    </div>
+</div>
+{% schema %}
+{
+"name": "t:settings_schema.common-section.brand",
+"tag": "section",
+"class": "logo-slider-section padding-top padding-bottom",
+"max_blocks": 10,
+    "settings": [
+  ],
+  "blocks": [
+    {
+      "type": "logo_image",
+      "name": "Logo",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "img",
+          "label": "t:settings_schema.common.settings.img"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:settings_schema.common-section.brand"
+    }
+  ]
+}
+{% endschema %}

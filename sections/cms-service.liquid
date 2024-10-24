@@ -1,0 +1,87 @@
+<div class="container">
+    <div class="section-title d-flex justify-content-between align-items-center">
+        <h2>{{ section.settings.title }}</h2>
+        <a href="{{ section.settings.btn_url }}" class="btn show-more-btn">
+            {{ section.settings.btn }}
+        </a>
+    </div>
+    <div class="row service-row">
+        {% for block in section.blocks %}
+        <div class="col-md-4 col-sm-6 col-12 service-col">
+            <div class="services-card">
+                <div class="services-card-inner">
+                    <img src="{{ block.settings.img | img_url: 'master' }}"> 
+                    <div class="services-text">
+                        <h3>
+                            <a href="{{ block.settings.btn_url }}">{{ block.settings.title }}</a>
+                        </h3>
+                        <a href="{{ block.settings.btn_url }}" class="btn">{{ block.settings.btn }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% schema %}
+{
+"name": "t:settings_schema.common-section.cms_srv",
+"tag": "section",
+"class": "services-section padding-bottom",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "t:settings_schema.common.settings.title"
+      },
+      {
+        "type": "text",
+        "id": "desc",
+        "label": "t:settings_schema.common.settings.desc"
+      },
+      {
+        "type": "url",
+        "id": "btn_url",
+        "label": "t:settings_schema.common.settings.btn_url"
+      },
+      {
+        "type": "text",
+        "id": "btn",
+        "label": "t:settings_schema.common.settings.btn"
+      }
+  ],
+  "blocks": [
+    {
+      "type": "sevice",
+      "name": "sevice",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "img",
+          "label": "t:settings_schema.common.settings.img"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "t:settings_schema.common.settings.title"
+        },
+        {
+          "type": "url",
+          "id": "btn_url",
+          "label": "t:settings_schema.common.settings.btn_url"
+        },
+        {
+          "type": "text",
+          "id": "btn",
+          "label": "t:settings_schema.common.settings.btn"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:settings_schema.common-section.cms_srv"
+    }
+  ]
+}
+{% endschema %}
