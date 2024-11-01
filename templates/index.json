@@ -1,1 +1,357 @@
-{"sections":{"292d8603-1982-48dd-9369-6c1c661a3de3":{"type":"homeslider","blocks":{"7f33b13f-761a-43ce-bb8a-dcebad0844b4":{"type":"image","settings":{"title":"Choose your dream car. Choose a Model.","desc":"Motorcars, also known as automobiles, have revolutionized transportation with their powerful engines and four-wheel design, making them a symbol of modern mobility.","btn":"Shop Now","btn_url":"shopify:\/\/products\/cou-fw-c2","img":"shopify:\/\/shop_images\/slider1.png"}},"4aa244fb-b170-41e2-8f94-7400fb15f5f5":{"type":"image","settings":{"title":"A Comprehensive History of the Motorcar's Evolution","desc":"The history of motorcars is a fascinating journey through time, from the early steam-powered vehicles to today's cutting-edge electric cars, showcasing the evolution of automotive technology.","btn":"Shop Now","btn_url":"shopify:\/\/products\/q7-audi-r1","img":"shopify:\/\/shop_images\/slider2.png"}}},"block_order":["7f33b13f-761a-43ce-bb8a-dcebad0844b4","4aa244fb-b170-41e2-8f94-7400fb15f5f5"],"settings":{}},"f3f82f6a-0bc5-45e4-bcb7-063319829a55":{"type":"product-slider","settings":{"show_secondary_image":false,"show_vendor":true,"show_wish":true,"show_variants":true,"pro_img_widthheight":"600x600","collection":"coupes"}},"6f15f4ca-ed85-4fe6-b5a3-7362166df37b":{"type":"brand-logo","blocks":{"2bb4f9d8-defe-44b0-b014-435c9da44d38":{"type":"logo_image","settings":{"img":"shopify:\/\/shop_images\/logo.png"}},"07153717-d4b2-4d7e-8c45-0fbba0b68f4b":{"type":"logo_image","settings":{"img":"shopify:\/\/shop_images\/logo.png"}},"b2cdaa77-bbcf-40a0-ba1c-76ff6716461e":{"type":"logo_image","settings":{"img":"shopify:\/\/shop_images\/logo.png"}},"0a664b4b-d8dd-4e97-bf4b-bc78e60e11e4":{"type":"logo_image","settings":{"img":"shopify:\/\/shop_images\/logo.png"}},"2e9c6c6b-bd82-4c45-bd68-29d7e9605a00":{"type":"logo_image","settings":{"img":"shopify:\/\/shop_images\/logo.png"}},"4faee25e-8de7-41a0-a1e0-46c73035e329":{"type":"logo_image","settings":{"img":"shopify:\/\/shop_images\/logo.png"}},"0e8cee4b-69d0-4390-b484-18fab92aafea":{"type":"logo_image","settings":{"img":"shopify:\/\/shop_images\/logo.png"}},"1e633239-494a-4832-8c79-231d84412409":{"type":"logo_image","settings":{"img":"shopify:\/\/shop_images\/logo.png"}}},"block_order":["2bb4f9d8-defe-44b0-b014-435c9da44d38","07153717-d4b2-4d7e-8c45-0fbba0b68f4b","b2cdaa77-bbcf-40a0-ba1c-76ff6716461e","0a664b4b-d8dd-4e97-bf4b-bc78e60e11e4","2e9c6c6b-bd82-4c45-bd68-29d7e9605a00","4faee25e-8de7-41a0-a1e0-46c73035e329","0e8cee4b-69d0-4390-b484-18fab92aafea","1e633239-494a-4832-8c79-231d84412409"],"settings":{}},"29c9b36b-1a39-4ef3-9810-6cb5b970350e":{"type":"bestseller-product","blocks":{"fa22bf64-e502-44fc-9a1c-f33c3c9256a3":{"type":"collection","settings":{"cat_name":"Sports","collection":"sports"}},"b4b1baeb-f9e9-4a98-bbcf-48fa42f54a63":{"type":"collection","settings":{"cat_name":"Coupes","collection":"coupes"}},"778c0569-24fe-49d0-b5f1-9cfa776bf252":{"type":"collection","settings":{"cat_name":"Roadsters","collection":"convertibles-roadsters"}},"cfc0d3bb-ab01-490a-bc88-d79570f24905":{"type":"collection","settings":{"cat_name":"Electic","collection":"electic"}}},"block_order":["fa22bf64-e502-44fc-9a1c-f33c3c9256a3","b4b1baeb-f9e9-4a98-bbcf-48fa42f54a63","778c0569-24fe-49d0-b5f1-9cfa776bf252","cfc0d3bb-ab01-490a-bc88-d79570f24905"],"settings":{"title":"Bestsellers","btn_url":"shopify:\/\/collections","btn":"Show More","show_secondary_image":false,"show_vendor":true,"show_wish":true,"show_variants":true,"pro_img_widthheight":"337x219"}},"445a3056-6bca-4720-8b64-3b25333281f3":{"type":"custom-banner","settings":{"img":"shopify:\/\/shop_images\/custom-bnr.png","title":"Best Cars for all over the world","desc":"The future of motorcars is bright, with autonomous vehicles, innovative connectivity, and sustainable energy sources promising to reshape the way we travel and experience the world.","btn_url":"shopify:\/\/collections","btn":"Show more"}},"24eb5782-fbd1-406a-a94d-52ac1c6d120d":{"type":"product-tab","blocks":{"f0368537-e173-4d8a-8583-6a600a2f5316":{"type":"collection","settings":{"cat_name":"All Products","collection":"frontpage"}},"09f14ce5-54b4-401a-bed7-711f965eeb71":{"type":"collection","settings":{"cat_name":"Convertibles","collection":"convertibles-roadsters"}},"f7b063d4-b41a-4d9c-85ec-f6c1f161df97":{"type":"collection","settings":{"cat_name":"Sports","collection":"sports"}},"0a49788f-4b89-41e0-ad02-c7cadda8ab8f":{"type":"collection","settings":{"cat_name":"Electic","collection":"electic"}}},"block_order":["f0368537-e173-4d8a-8583-6a600a2f5316","09f14ce5-54b4-401a-bed7-711f965eeb71","f7b063d4-b41a-4d9c-85ec-f6c1f161df97","0a49788f-4b89-41e0-ad02-c7cadda8ab8f"],"settings":{"title":"Featured Products","show_secondary_image":false,"show_vendor":true,"show_wish":true,"show_variants":true,"pro_img_widthheight":"600x600"}},"d98e732d-2f1f-4faf-be27-7ec28b9a7e86":{"type":"cms-service","blocks":{"2d0889a8-a137-4bdb-8c69-da3eeaa24580":{"type":"sevice","settings":{"img":"shopify:\/\/shop_images\/b-1.png","title":"Sport Car","btn_url":"shopify:\/\/collections\/sports","btn":"Show more"}},"6ddf4a94-52aa-40d5-9e25-687483ed9644":{"type":"sevice","settings":{"img":"shopify:\/\/shop_images\/b-2.png","title":"electric Car","btn_url":"shopify:\/\/collections\/electic","btn":"Show more"}},"4661bd1c-7263-453e-87f9-ace9fd04af01":{"type":"sevice","settings":{"img":"shopify:\/\/shop_images\/b-3.png","title":"New Collection","btn_url":"shopify:\/\/collections\/convertibles-roadsters","btn":"Show more"}}},"block_order":["2d0889a8-a137-4bdb-8c69-da3eeaa24580","6ddf4a94-52aa-40d5-9e25-687483ed9644","4661bd1c-7263-453e-87f9-ace9fd04af01"],"settings":{"title":"Multiple  variants","desc":"","btn_url":"shopify:\/\/collections","btn":"Show more"}},"227bf0a7-da9a-40b3-8340-f0fa13952489":{"type":"testimonials","blocks":{"5f543c49-9a35-471a-ace9-5a95fe26a0f6":{"type":"text","settings":{"proimg":"shopify:\/\/shop_images\/testi-1.png","img":"shopify:\/\/shop_images\/stars.png","review":"4.5","title":"Excellent service!","desc":"I was treated really well here. The staff at the shop were all friendly and helpful. Jim also knows the bikes very well.","subtitle":"WSR-690 Superbike","author":"Ava","designation":"Client"}},"0fc211a6-18c0-4446-b1bc-89d151a80ff5":{"type":"text","settings":{"proimg":"shopify:\/\/shop_images\/testi-2.png","img":"shopify:\/\/shop_images\/stars.png","review":"4.5","title":"Great job","desc":"Motorcycles come in various types such as sport bikes, cruisers, touring bikes, and dirt bikes.","subtitle":"WSR-690 Superbike","author":"Alexander","designation":"Client"}},"d1105328-ed38-453d-9bab-9121cd54f795":{"type":"text","settings":{"proimg":"shopify:\/\/shop_images\/testi-3.png","img":"shopify:\/\/shop_images\/stars.png","review":"4.5","title":"Outstanding","desc":"Zwift and smart trainer session. Rob was awesome. Great selection of new and used bikes.","subtitle":"WSR-690 Superbike","author":"Charlotte","designation":"Client"}},"a6955458-d94c-495d-8f63-218d0d0565e2":{"type":"text","settings":{"proimg":"shopify:\/\/shop_images\/testi-4.png","img":"shopify:\/\/shop_images\/stars.png","review":"4.5","title":"Affordable","desc":"Made a little stop here because my bike seat was being a pain in the butt (literally).","subtitle":"WSR-690 Superbike","author":"William","designation":"Client"}}},"block_order":["5f543c49-9a35-471a-ace9-5a95fe26a0f6","0fc211a6-18c0-4446-b1bc-89d151a80ff5","d1105328-ed38-453d-9bab-9121cd54f795","a6955458-d94c-495d-8f63-218d0d0565e2"],"settings":{}},"797775d2-804f-49f6-ab58-5c1baa2d9bd3":{"type":"category-product","settings":{"title":"Motor Cycling","img":"shopify:\/\/shop_images\/tab-img.png","show_secondary_image":false,"show_vendor":true,"show_wish":true,"show_review":true,"pro_img_widthheight":"150x150","collection":"electic"}},"61815dee-e418-4c1e-9166-a463ca57df5f":{"type":"featured-blog","settings":{"title":"Blog & Articles","btn_url":"shopify:\/\/blogs\/news","btn":"Show more","blog":"news","post_limit":"5","blog_show_date":true}}},"order":["292d8603-1982-48dd-9369-6c1c661a3de3","f3f82f6a-0bc5-45e4-bcb7-063319829a55","6f15f4ca-ed85-4fe6-b5a3-7362166df37b","29c9b36b-1a39-4ef3-9810-6cb5b970350e","445a3056-6bca-4720-8b64-3b25333281f3","24eb5782-fbd1-406a-a94d-52ac1c6d120d","d98e732d-2f1f-4faf-be27-7ec28b9a7e86","227bf0a7-da9a-40b3-8340-f0fa13952489","797775d2-804f-49f6-ab58-5c1baa2d9bd3","61815dee-e418-4c1e-9166-a463ca57df5f"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "292d8603-1982-48dd-9369-6c1c661a3de3": {
+      "type": "homeslider",
+      "blocks": {
+        "7f33b13f-761a-43ce-bb8a-dcebad0844b4": {
+          "type": "image",
+          "settings": {
+            "title": "TEST TEST TEST",
+            "desc": "Motorcars, also known as automobiles, have revolutionized transportation with their powerful engines and four-wheel design, making them a symbol of modern mobility.",
+            "btn": "Shop Now",
+            "btn_url": "shopify://products/cou-fw-c2"
+          }
+        },
+        "image_6GWFLg": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "desc": "",
+            "btn": "",
+            "btn_url": ""
+          }
+        },
+        "4aa244fb-b170-41e2-8f94-7400fb15f5f5": {
+          "type": "image",
+          "settings": {
+            "title": "A Comprehensive History of the Motorcar's Evolution",
+            "desc": "The history of motorcars is a fascinating journey through time, from the early steam-powered vehicles to today's cutting-edge electric cars, showcasing the evolution of automotive technology.",
+            "btn": "Shop Now",
+            "btn_url": "shopify://products/q7-audi-r1"
+          }
+        }
+      },
+      "block_order": [
+        "7f33b13f-761a-43ce-bb8a-dcebad0844b4",
+        "image_6GWFLg",
+        "4aa244fb-b170-41e2-8f94-7400fb15f5f5"
+      ],
+      "settings": {
+      }
+    },
+    "f3f82f6a-0bc5-45e4-bcb7-063319829a55": {
+      "type": "product-slider",
+      "settings": {
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_wish": true,
+        "show_variants": true,
+        "pro_img_widthheight": "600x600",
+        "collection": "coupes"
+      }
+    },
+    "6f15f4ca-ed85-4fe6-b5a3-7362166df37b": {
+      "type": "brand-logo",
+      "blocks": {
+        "2bb4f9d8-defe-44b0-b014-435c9da44d38": {
+          "type": "logo_image",
+          "settings": {
+          }
+        },
+        "07153717-d4b2-4d7e-8c45-0fbba0b68f4b": {
+          "type": "logo_image",
+          "settings": {
+          }
+        },
+        "b2cdaa77-bbcf-40a0-ba1c-76ff6716461e": {
+          "type": "logo_image",
+          "settings": {
+          }
+        },
+        "0a664b4b-d8dd-4e97-bf4b-bc78e60e11e4": {
+          "type": "logo_image",
+          "settings": {
+          }
+        },
+        "2e9c6c6b-bd82-4c45-bd68-29d7e9605a00": {
+          "type": "logo_image",
+          "settings": {
+          }
+        },
+        "4faee25e-8de7-41a0-a1e0-46c73035e329": {
+          "type": "logo_image",
+          "settings": {
+          }
+        },
+        "0e8cee4b-69d0-4390-b484-18fab92aafea": {
+          "type": "logo_image",
+          "settings": {
+          }
+        },
+        "1e633239-494a-4832-8c79-231d84412409": {
+          "type": "logo_image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "2bb4f9d8-defe-44b0-b014-435c9da44d38",
+        "07153717-d4b2-4d7e-8c45-0fbba0b68f4b",
+        "b2cdaa77-bbcf-40a0-ba1c-76ff6716461e",
+        "0a664b4b-d8dd-4e97-bf4b-bc78e60e11e4",
+        "2e9c6c6b-bd82-4c45-bd68-29d7e9605a00",
+        "4faee25e-8de7-41a0-a1e0-46c73035e329",
+        "0e8cee4b-69d0-4390-b484-18fab92aafea",
+        "1e633239-494a-4832-8c79-231d84412409"
+      ],
+      "settings": {
+      }
+    },
+    "29c9b36b-1a39-4ef3-9810-6cb5b970350e": {
+      "type": "bestseller-product",
+      "blocks": {
+        "fa22bf64-e502-44fc-9a1c-f33c3c9256a3": {
+          "type": "collection",
+          "settings": {
+            "cat_name": "Sports",
+            "collection": "sports"
+          }
+        },
+        "b4b1baeb-f9e9-4a98-bbcf-48fa42f54a63": {
+          "type": "collection",
+          "settings": {
+            "cat_name": "Coupes",
+            "collection": "coupes"
+          }
+        },
+        "778c0569-24fe-49d0-b5f1-9cfa776bf252": {
+          "type": "collection",
+          "settings": {
+            "cat_name": "Roadsters",
+            "collection": "convertibles-roadsters"
+          }
+        },
+        "cfc0d3bb-ab01-490a-bc88-d79570f24905": {
+          "type": "collection",
+          "settings": {
+            "cat_name": "Electic",
+            "collection": "electic"
+          }
+        }
+      },
+      "block_order": [
+        "fa22bf64-e502-44fc-9a1c-f33c3c9256a3",
+        "b4b1baeb-f9e9-4a98-bbcf-48fa42f54a63",
+        "778c0569-24fe-49d0-b5f1-9cfa776bf252",
+        "cfc0d3bb-ab01-490a-bc88-d79570f24905"
+      ],
+      "settings": {
+        "title": "Bestsellers",
+        "btn_url": "shopify://collections",
+        "btn": "Show More",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_wish": true,
+        "show_variants": true,
+        "pro_img_widthheight": "337x219"
+      }
+    },
+    "445a3056-6bca-4720-8b64-3b25333281f3": {
+      "type": "custom-banner",
+      "settings": {
+        "title": "Best Cars for all over the world",
+        "desc": "The future of motorcars is bright, with autonomous vehicles, innovative connectivity, and sustainable energy sources promising to reshape the way we travel and experience the world.",
+        "btn_url": "shopify://collections",
+        "btn": "Show more"
+      }
+    },
+    "24eb5782-fbd1-406a-a94d-52ac1c6d120d": {
+      "type": "product-tab",
+      "blocks": {
+        "f0368537-e173-4d8a-8583-6a600a2f5316": {
+          "type": "collection",
+          "settings": {
+            "cat_name": "All Products",
+            "collection": "frontpage"
+          }
+        },
+        "09f14ce5-54b4-401a-bed7-711f965eeb71": {
+          "type": "collection",
+          "settings": {
+            "cat_name": "Convertibles",
+            "collection": "convertibles-roadsters"
+          }
+        },
+        "f7b063d4-b41a-4d9c-85ec-f6c1f161df97": {
+          "type": "collection",
+          "settings": {
+            "cat_name": "Sports",
+            "collection": "sports"
+          }
+        },
+        "0a49788f-4b89-41e0-ad02-c7cadda8ab8f": {
+          "type": "collection",
+          "settings": {
+            "cat_name": "Electic",
+            "collection": "electic"
+          }
+        }
+      },
+      "block_order": [
+        "f0368537-e173-4d8a-8583-6a600a2f5316",
+        "09f14ce5-54b4-401a-bed7-711f965eeb71",
+        "f7b063d4-b41a-4d9c-85ec-f6c1f161df97",
+        "0a49788f-4b89-41e0-ad02-c7cadda8ab8f"
+      ],
+      "settings": {
+        "title": "Featured Products",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_wish": true,
+        "show_variants": true,
+        "pro_img_widthheight": "600x600"
+      }
+    },
+    "d98e732d-2f1f-4faf-be27-7ec28b9a7e86": {
+      "type": "cms-service",
+      "blocks": {
+        "2d0889a8-a137-4bdb-8c69-da3eeaa24580": {
+          "type": "sevice",
+          "settings": {
+            "title": "Sport Car",
+            "btn_url": "shopify://collections/sports",
+            "btn": "Show more"
+          }
+        },
+        "6ddf4a94-52aa-40d5-9e25-687483ed9644": {
+          "type": "sevice",
+          "settings": {
+            "title": "electric Car",
+            "btn_url": "shopify://collections/electic",
+            "btn": "Show more"
+          }
+        },
+        "4661bd1c-7263-453e-87f9-ace9fd04af01": {
+          "type": "sevice",
+          "settings": {
+            "title": "New Collection",
+            "btn_url": "shopify://collections/convertibles-roadsters",
+            "btn": "Show more"
+          }
+        }
+      },
+      "block_order": [
+        "2d0889a8-a137-4bdb-8c69-da3eeaa24580",
+        "6ddf4a94-52aa-40d5-9e25-687483ed9644",
+        "4661bd1c-7263-453e-87f9-ace9fd04af01"
+      ],
+      "settings": {
+        "title": "Multiple  variants",
+        "desc": "",
+        "btn_url": "shopify://collections",
+        "btn": "Show more"
+      }
+    },
+    "227bf0a7-da9a-40b3-8340-f0fa13952489": {
+      "type": "testimonials",
+      "blocks": {
+        "5f543c49-9a35-471a-ace9-5a95fe26a0f6": {
+          "type": "text",
+          "settings": {
+            "review": "4.5",
+            "title": "Excellent service!",
+            "desc": "I was treated really well here. The staff at the shop were all friendly and helpful. Jim also knows the bikes very well.",
+            "subtitle": "WSR-690 Superbike",
+            "author": "Ava",
+            "designation": "Client"
+          }
+        },
+        "0fc211a6-18c0-4446-b1bc-89d151a80ff5": {
+          "type": "text",
+          "settings": {
+            "review": "4.5",
+            "title": "Great job",
+            "desc": "Motorcycles come in various types such as sport bikes, cruisers, touring bikes, and dirt bikes.",
+            "subtitle": "WSR-690 Superbike",
+            "author": "Alexander",
+            "designation": "Client"
+          }
+        },
+        "d1105328-ed38-453d-9bab-9121cd54f795": {
+          "type": "text",
+          "settings": {
+            "review": "4.5",
+            "title": "Outstanding",
+            "desc": "Zwift and smart trainer session. Rob was awesome. Great selection of new and used bikes.",
+            "subtitle": "WSR-690 Superbike",
+            "author": "Charlotte",
+            "designation": "Client"
+          }
+        },
+        "a6955458-d94c-495d-8f63-218d0d0565e2": {
+          "type": "text",
+          "settings": {
+            "review": "4.5",
+            "title": "Affordable",
+            "desc": "Made a little stop here because my bike seat was being a pain in the butt (literally).",
+            "subtitle": "WSR-690 Superbike",
+            "author": "William",
+            "designation": "Client"
+          }
+        }
+      },
+      "block_order": [
+        "5f543c49-9a35-471a-ace9-5a95fe26a0f6",
+        "0fc211a6-18c0-4446-b1bc-89d151a80ff5",
+        "d1105328-ed38-453d-9bab-9121cd54f795",
+        "a6955458-d94c-495d-8f63-218d0d0565e2"
+      ],
+      "settings": {
+      }
+    },
+    "797775d2-804f-49f6-ab58-5c1baa2d9bd3": {
+      "type": "category-product",
+      "settings": {
+        "title": "Motor Cycling",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_wish": true,
+        "show_review": true,
+        "pro_img_widthheight": "150x150",
+        "collection": "electic"
+      }
+    },
+    "61815dee-e418-4c1e-9166-a463ca57df5f": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Blog & Articles",
+        "btn_url": "shopify://blogs/news",
+        "btn": "Show more",
+        "blog": "news",
+        "post_limit": "5",
+        "blog_show_date": true
+      }
+    }
+  },
+  "order": [
+    "292d8603-1982-48dd-9369-6c1c661a3de3",
+    "f3f82f6a-0bc5-45e4-bcb7-063319829a55",
+    "6f15f4ca-ed85-4fe6-b5a3-7362166df37b",
+    "29c9b36b-1a39-4ef3-9810-6cb5b970350e",
+    "445a3056-6bca-4720-8b64-3b25333281f3",
+    "24eb5782-fbd1-406a-a94d-52ac1c6d120d",
+    "d98e732d-2f1f-4faf-be27-7ec28b9a7e86",
+    "227bf0a7-da9a-40b3-8340-f0fa13952489",
+    "797775d2-804f-49f6-ab58-5c1baa2d9bd3",
+    "61815dee-e418-4c1e-9166-a463ca57df5f"
+  ]
+}
